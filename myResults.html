@@ -2,8 +2,14 @@
 <html>
 <body>
 
-  <div>
-
+  <div id="resulttext">
+    
+    <button onclick="clear()">Clear</button>
+    
+    <a href="Quiz2.html">
+      <button id="home" onclick="location.href='Quiz.html';"  style="margin-top: 12px">Go Back To Quiz</button>
+    </a>
+    
     <output type="text" id="displayResults"></output>
 
   </div>
@@ -16,6 +22,10 @@
       results = window.sessionStorage.getItem("key");
       document.getElementById("displayResults").innerHTML = results;
     }
+    
+    function clear() {
+      document.getElementById("resulttext").innerHTML = "";
+}
 
   </script>
 
