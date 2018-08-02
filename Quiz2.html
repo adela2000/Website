@@ -232,12 +232,14 @@ function check() {
 	return myResults;
 }
 
-var results = check();
-window.sessionStorage.setItem("key", results);
+function myFunction() {
+	var results = check();
+	window.sessionStorage.setItem("key", results);
+}
 
 </script>
 
-<button id="home" onclick="location.href='myResults.html';" type="button"> Submit </button> <br /> <br />
+<button id="home" onclick="myFunction(); location.href='myResults.html';" type="button"> Submit </button> <br /> <br />
 
 </body>
 </html>
