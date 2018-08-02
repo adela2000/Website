@@ -1,26 +1,23 @@
 <!DOCTYPE html>
 <html>
 <body>
-     <script src="Quiz2.js"></script>
-     <button onclick="Clear()">Clear</button>
+
   <div>
-    
+
     <output type="text" id="displayResults"></output>
-   
+
   </div>
-  
+
   <script>
-    
+
+    var results = "";
+
     window.onload = function () {
-      var results = sessionStorage.getItem('key');
+      results = window.sessionStorage.getItem("key");
       document.getElementById("displayResults").innerHTML = results;
     }
-    
+
   </script>
-  
-<!--     <div id= "resulttext"></div>
-    <a href="Quiz2.html">
-      <button onclick="Go_Back_To_Quiz()"  style="margin-top: 12px">Go Back To Quiz</button>
-    </a> -->
+
 </body>
 </html>
