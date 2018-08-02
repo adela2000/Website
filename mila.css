@@ -1,0 +1,48 @@
+#Column1, #Column2 {
+    float: left;
+    height: 500vh;
+    background-color: #ffcccc;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+}
+
+#Column1 {
+    width: 20%;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+
+#Column2 {
+    width: 78%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  padding-left: 10px;
+}
+
+body {
+  background-color: black;
+}
+
+#home {
+  text-align: center;
+}
+
+#p01 {
+  padding-left: 10px;
+}
+
+#p02 {
+  padding-left: 10px;
+}
+#SClogo{
+  width: 150px;
+}
+#SClogo:hover {
+  opacity: 0.5;
+}

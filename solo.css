@@ -1,0 +1,428 @@
+#Column1, #Column2 {
+  float: left;
+  height: 2000vh;
+  background-color: #ffcccc;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+head {
+  background-color: #ffcccc;
+}
+
+#Column1 {
+  width: 10%;
+  margin-right: 10px;
+  padding-left: 10px;
+}
+
+#Column2 {
+  width: 87%;
+}
+
+body {
+  background-color: black;
+
+}
+
+h1 {
+text-align: center;
+}
+
+h2 {
+  padding-left: 10px;
+}
+
+#p01 {
+  padding-left: 10px;
+}
+#AllanHancocklogo {
+  width: 100px;
+}
+#AllanHancocklogo:hover {
+  opacity: 0.5;
+}
+#Alemadalogo {
+  width: 100px;
+}
+#Alemadalogo:hover {
+  opacity: 0.5;
+}
+#AmericanRiverlogo {
+  width: 150px;
+}
+#AmericanRiverlogo:hover {
+  opacity: 0.5;
+}
+#Antelopelogo {
+  width: 130px;
+}
+#Antelopelogo:hover {
+  opacity: 0.5;
+}
+#Backersfieldlogo {
+  width: 150px;
+}
+#Backersfieldlogo:hover {
+  opacity: 0.5;
+}
+#Barstowlogo {
+  width: 150px;
+}
+#Barstowlogo:hover {
+  width: 150px;
+}
+#Butte-gennlogo {
+ width: 150px;
+}
+#Butte-gennlogo:hover {
+ opacity: 0.5;
+}
+#Cabrillologo {
+  width: 120px;
+}
+#Cabrillologo:hover {
+  opacity: 0.5;
+}
+#CanadaCollegelogo {
+  width: 100px;
+}
+#CanadaCollegelogo:hover {
+  opacity: 0.5;
+}
+#CerritosCollegeLogo {
+  width: 120px;
+}
+#CerritosCollegeLogo:hover {
+  opacity: 0.5;
+}
+#CerroCoscoCommunityCollegeLogo {
+  width:120px;
+}
+#CerroCoscoCommunityCollegeLogo:hover {
+  opacity: 0.5;
+}
+#ChabotLogo {
+  width:120px;
+}
+#ChabotLogo:hover {
+  opacity: 0.5;
+}
+#ChaffeyLogo {
+  width: 230px;
+}
+#ChaffeyLogo:hover {
+  opacity: 0.5;
+}
+#CitrusLogo {
+  width: 120px;
+}
+#CitrusLogo:hover {
+  opacity: 0.5;
+}
+#SanFranciscoLogo {
+  width: 120px;
+}
+#SanFranciscoLogo:hover {
+  opacity: 0.5;
+}
+#ClovisLogo {
+  width: 120px;
+}
+#ClovisLogo:hover {
+  opacity: 0.5;
+}
+#CoastlineLogo {
+  width: 120px;
+}
+#CoastlineLogo:hover {
+  opacity: 0.5;
+}
+#AlamedaLogo {
+  width: 120px;
+}
+#AlamedaLogo:hover {
+  opacity: 0.5;
+}
+#Marin {
+  width: 120px;
+}
+#Marin:hover {
+  opacity: 0.5;
+}
+#SanMateoLogo {
+  width: 120px;
+}
+#SanMateoLogo:hover {
+  opacity: ;
+}
+#Canyons {
+  width: 120px;
+}
+#Canyons:hover {
+  opacity: 0.5;
+}
+#DesertLogo {
+  width: 110px;
+}
+#DesertLogo:hover {
+  opacity: 0.5;
+}
+#RedwoodsLogo {
+  width: 120px;
+}
+#RedwoodsLogo:hover {
+  opacity: 0.5;
+}
+#Sequoias {
+  width: 120px;
+}
+#Sequoias:hover {
+  opacity: 0.5;
+}
+#SISKIYOUS {
+  width: 120px;
+}
+#SISKIYOUS:hover {
+  opacity: 0.5;
+}
+#Columbia {
+  width: 120px;
+}
+#Columbia:hover {
+  opacity: 0.5;
+}
+#Campton {
+  width: 120px;
+}
+#Campton:hover {
+  opacity: 0.5;
+}
+#ContraCosta {
+  width: 150px;
+}
+#ContraCosta:hover {
+  opacity: 0.5;
+}
+#Copper {
+  width: 120px;
+}
+#Copper:hover {
+  opacity: 0.5;
+}
+#Consumnes {
+  width: 120px;
+}
+#Consumnes:hover {
+  opacity: 0.5;
+}
+#crafton {
+  width: 120px;
+}
+#crafton:hover {
+  opacity: 0.5;
+}
+#Cuesta {
+  width: 120px;
+}
+#Cuesta:hover {
+  opacity: 0.5;
+}
+#CUYAMACA {
+  width: 120px;
+}
+#CUYAMACA:hover {
+  opacity: 0.5;
+}
+#Cypress {
+  width: 120px;
+}
+#Cypress:hover {
+  opacity: 0.5;
+}
+#DeAnza {
+  width: 120px;
+}
+#DeAnza:hover {
+  opacity: 0.5;
+}
+#DIABLO {
+  width: 120px;
+}
+#DIABLO:hover {
+  opacity: 0.5;
+}
+#EastLosAngeles {
+  width: 120px;
+}
+#EastLosAngeles:hover {
+  opacity: 0.5;
+}
+#ElCamino {
+  width: 120px;
+}
+#ElCamino:hover {
+  opacity: 0.5;
+}
+#Evergreen {
+  width: 120px;
+}
+#Evergreen:hover {
+  opacity: 0.5;
+}
+#Feather {
+  width: 120px;
+}
+#Feather:hover {
+  opacity: 0.5;
+}
+#FOLSOM {
+  width: 120px;
+}
+#FOLSOM:hover {
+  opacity: 0.5;
+}
+#FOOTHILL {
+  width: 120px;
+}
+#FOOTHILL:hover {
+  opacity: 0.5;
+}
+#FRESNO {
+  width: 120px;
+}
+#FRESNO:hover {
+  opacity: 0.5;
+}
+#FULLERTON {
+  width: 120px;
+}
+#FULLERTON:hover {
+  opacity: 0.5;
+}
+#GAVILAN {
+  width: 120px;
+}
+#GAVILAN:hover {
+  opacity: 0.5;
+}
+#GLENDALE {
+  width: 120px;
+}
+#GLENDALE:hover {
+  opacity: 0.5;
+}
+#GOLDEN {
+  width: 120px;
+}
+#GOLDEN:hover {
+  opacity: 0.5;
+}
+#GROSSMONT {
+  width: 120px;
+}
+#GROSSMONT:hover {
+  opacity: 0.5;
+}
+#HARBOR {
+  width: 120px;
+}
+#HARBOR:hover {
+  opacity: 0.5;
+}
+#HARTNELL {
+  width: 120px;
+}
+#HARTNELL:hover {
+  opacity: 0.5;
+}
+#IMPERIAL {
+  width: 120px;
+}
+#IMPERIAL:hover {
+  opacity: 0.5;
+}
+#IRVINE {
+  width: 120px;
+}
+#IRVINE:hover {
+  opacity: 0.5;
+}
+#LakeTahoe {
+  width: 120px;
+}
+#LakeTahoe:hover {
+  opacity: 0.5;
+}
+#LANEY {
+  width: 120px;
+}
+#LANEY:hover {
+  opacity: 0.5;
+}
+#POSITAS {
+  width: 200px;
+}
+#POSITAS:hover {
+  opacity: 0.5;
+}
+#LASSEN {
+  width: 120px;
+}
+#LASSEN:hover {
+  opacity: 0.5;
+}
+#LongBeach {
+  width: 120px;
+}
+#LongBeach:hover {
+  opacity: 0.5;
+}
+#LosAngelesCityCollege {
+  width: 120px;
+}
+#LosAngelesCityCollege:hover {
+  opacity: 0.5;
+}
+#LosAngelesHarborCollege {
+  width: 120px;
+}
+#LosAngelesHarborCollege:hover {
+  opacity: 0.5;
+}
+#LosAngelesMissionCollege {
+  width: 120px;
+}
+#LosAngelesMissionCollege:hover {
+  opacity: 0.5;
+}
+#LosAngelesPierceCollege {
+  width: 120px;
+}
+#LosAngelesPierceCollege:hover {
+  opacity: 0.5;
+}
+#LosAngelesSouthwestCollege {
+  width: 120px;
+}
+#LosAngelesSouthwestCollege:hover {
+  opacity: 0.5;
+}
+#LosAngelesTradeTechCollege {
+  width: 120px;
+}
+#LosAngelesTradeTechCollege:hover {
+  opacity: 0.5;
+}
+#LosAngelesValleyCollege {
+  width: 120px;
+}
+#LosAngelesValleyCollege:hover {
+  opacity: 0.5;
+}
+#LosMedanosCollege {
+  width: 120px;
+}
+#LosMedanosCollege:hover {
+  opacity: 0.5;
+}

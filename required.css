@@ -1,0 +1,110 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-left: 10px;
+}
+
+body {
+  background-color: black;
+}
+
+#Column1, #Column2 {
+    float: left;
+    height: 340vh;
+    background-color: #edd19a;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+}
+
+#Column1 {
+    width: 20%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#Column2 {
+    width: 78%;
+}
+
+#home {
+  color: black;
+}
+
+#aboutUs {
+  color: black;
+}
+
+#financialAid {
+  color: black;
+}
+
+#csu {
+  color: black;
+}
+
+#requirements {
+  color: black;
+}
+
+#p01, #p02, #p03, #p04, #p05, #p06, #p07 {
+  padding-left: 10px;
+}
+
+#historyImage {
+  width: 200px;
+  margin-left: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#englishImage {
+  width: 200px;
+  margin-left: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#mathImage {
+  width: 200px;
+  margin-left: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#scienceImage {
+  width: 200px;
+  margin-left: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#foreignLanguageImage {
+  width: 200px;
+  margin-left: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#artImage {
+  width: 200px;
+  margin-left: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#danceImage {
+  width: 200px;
+  margin-left: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#electiveImage {
+  width: 200px;
+  margin-left: 10px;
+  border-style: solid;
+  border-width: 1px;
+}

@@ -1,0 +1,130 @@
+#Column1, #Column2 {
+    float: left;
+    height: 400vh;
+    background-color: #ffcccc;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+}
+
+#Column1 {
+    width: 20%;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+
+#Column2 {
+    width: 78%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {l
+  padding-left: 10px;
+}
+
+body {
+  background-color: black;
+}
+
+#home {
+  text-align: center;
+}
+
+#p01 {
+  padding-left: 10px;
+}
+
+#p02 {
+  padding-left: 10px;
+}
+
+#Marinlogo{
+  width:100px;
+}
+#Marinlogo:hover {
+  opacity: 0.5;
+}
+#Mendocinologo{
+  width:100px;
+}
+#Mendocinologo:hover {
+  opacity: 0.5;
+}
+#Mercedlogo
+{
+  width:100px;
+}
+#Mercedlogo:hover {
+  opacity: 0.5;
+}
+#Merittlogo
+{
+  width:100px;
+}
+#Merittlogo:hover {
+  opacity: 0.5;
+}
+#MiraCostalogo
+{
+  width:100px;
+}
+#MiraCostalogo:hover {
+  opacity: 0.5;
+}
+#Missionlogo
+{
+  width:100px;
+}
+#Missionlogo:hover {
+  opacity: 0.5;
+}
+#LAMisionlogo{
+  width:100px;
+}
+#LAMisionlogo:hover {
+  opacity: 0.5;
+}
+#ModestoJRlogo{
+  width:100px;
+}
+#ModestoJRlogo:hover {
+  opacity: 0.5;
+}
+#MPlogo
+{
+  width:100px;
+}
+#MPlogo:hover {
+  opacity: 0.5;
+}
+#Mooorparklogo
+{
+  width:100px;
+}
+#Mooorparklogo:hover {
+  opacity: 0.5;
+}
+#Morenovalleylogo
+{
+  width:100px;
+}
+#Morenovalleylogo:hover {
+  opacity: 0.5;
+}
+#MTlogo
+{
+  width:100px;
+}
+#MTlogo:hover {
+  opacity: 0.5;
+}
+#Mtsanlogo
+{
+  width:100px;
+}
+#Mtsanlogo:hover {
+  opacity: 0.5;
+}

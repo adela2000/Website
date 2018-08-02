@@ -1,0 +1,753 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+#Column1, #Column2 {
+    float: left;
+    height: 740vh;
+    background-color: #BFE1BF;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+}
+
+#Column1 {
+    width: 15%;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+
+#Column2 {
+    width: 83%;
+}
+
+#home {
+  color: black;
+}
+
+#aboutUs {
+  color: black;
+}
+
+#financialAid {
+  color: black;
+}
+
+#csu {
+  color: black;
+}
+
+#p01, #p02, #p03, #p04, #p05, #p06, #p07, #p08, #p09, #p10 {
+  padding-left: 10px;
+}
+
+#p11, #p12, #p13, #p14, #p15, #p16, #p17, #p18, #p19, #p20 {
+  padding-left: 10px;
+}
+
+#p21, #p22, #p23 {
+  padding-left: 10px;
+}
+
+/* Bakersfield Section */
+
+#bakersfieldLogo {
+  width: 140px;
+}
+
+#bakersfieldLogo:hover {
+  opacity: 0.5;
+}
+
+#bakersfieldMascot{
+  width: 200px;
+  padding-left: 30px;
+}
+
+#bakersfieldBasketball {
+  width: 200px;
+  padding-left: 20px;
+}
+
+#bakersfieldGraduation {
+  width: 107px;
+  padding-left: 20px;
+}
+
+#bakersfieldSoccer {
+  width: 238px;
+  padding-left: 20px;
+}
+
+#bakersfieldCampus {
+  width: 198px;
+  padding-left: 20px;
+}
+
+/* CSU Channel Islands Section */
+
+#channelLogo {
+  width: 140px;
+}
+
+#channelLogo:hover {
+  opacity: 0.5;
+}
+
+#channelMascot {
+  width: 210px;
+  padding-left: 30px;
+}
+
+#channelSports {
+  width: 210px;
+  padding-left: 20px;
+}
+
+#channelGraduation {
+  width: 220px;
+  padding-left: 20px;
+}
+
+#channelCampus {
+  width: 220px;
+  padding-left: 20px;
+}
+
+/* CSU Chico Section */
+
+#chicoLogo {
+  width: 140px;
+}
+
+#chicoLogo:hover {
+  opacity: 0.5;
+}
+
+#chicoMascot {
+  width: 210px;
+  padding-left: 30px;
+}
+
+#chicoSports {
+  width: 195px;
+  padding-left: 20px;
+}
+
+#chicoGraduation {
+  width: 232px;
+  padding-left: 20px;
+}
+
+#chicoCampus {
+  width: 210px;
+  padding-left: 20px;
+}
+
+/* CSU Dominguez Hills Section */
+
+#dhLogo {
+  width: 140px;
+}
+
+#dhLogo:hover {
+  opacity: 0.5;
+}
+
+#dhMascot {
+  width: 210px;
+  padding-left: 30px;
+}
+
+#dhSport {
+  width:250px;
+  padding-left: 20px;
+}
+
+#dhGraduation {
+  width:210px;
+  padding-left: 20px;
+}
+
+#dhCampus {
+  width:250px;
+  padding-left: 20px;
+}
+
+/* CSU East Bay Section */
+
+#eastBayLogo {
+  width: 140px;
+}
+
+#eastBayLogo:hover {
+  opacity: 0.5;
+}
+
+#eastBayMascot {
+  width: 150px;
+  padding-left: 30px;
+}
+
+#eastBaySport {
+  width: 226px;
+  padding-left: 20px;
+}
+
+#eastBayGraduation {
+  width: 226px;
+  padding-left: 20px;
+}
+
+#eastBayCampus {
+  width: 226px;
+  padding-left: 20px;
+}
+
+/* CSU Fresno Section */
+
+#fresnoLogo {
+  width: 140px;
+}
+
+#fresnoLogo:hover {
+  opacity: 0.5;
+}
+
+#fresnoMascot {
+  width: 200px;
+  padding-left: 30px;
+}
+
+#fresnoSport {
+  width: 214px;
+  padding-left: 20px;
+}
+
+#fresnoGraduation {
+  width: 242px;
+  padding-left: 20px;
+}
+
+#fresnoCampus {
+  width: 214px;
+  padding-left: 20px;
+}
+
+/* CSU Fullerton Section */
+
+#fullertonLogo {
+  width: 140px;
+}
+
+#fullertonLogo:hover {
+  opacity: 0.5;
+}
+
+#fullertonMascot {
+  width: 200px;
+  padding-left: 30px;
+}
+
+#fullertonSport {
+  width: 142px;
+  padding-left: 20px;
+}
+
+#fullertonGraduation {
+  width: 220px;
+  padding-left: 20px;
+}
+
+#fullertonCampus {
+  width: 282px;
+  padding-left: 20px;
+}
+
+/* Humboldt State University Section */
+
+#humboldtLogo {
+  width: 140px;
+}
+
+#humboldtLogo:hover {
+  opacity: 0.5;
+}
+
+#humboldtMascot {
+  width: 210px;
+  padding-left: 30px;
+}
+
+#humboldtSports {
+  width: 212px;
+  padding-left: 20px;
+}
+
+#humboldtGraduation {
+  width: 213px;
+  padding-left: 20px;
+}
+
+#humboldtCampus {
+  width: 215px;
+  padding-left: 20px;
+}
+
+/* CSU Long Beach Section */
+
+#longBeachLogo {
+  width: 140px;
+}
+
+#longBeachLogo:hover {
+  opacity: 0.5;
+}
+
+#longBeachMascot {
+  width: 196px;
+  padding-left: 30px;
+}
+
+#longBeachSport {
+  width: 196px;
+  padding-left: 20px;
+}
+
+#longBeachGraduation {
+  width: 196px;
+  padding-left: 20px;
+}
+
+#longBeachCampus {
+  width: 176px;
+  padding-left: 20px;
+}
+
+
+/* CSU Los Angeles Section */
+
+#LALogo{
+  width: 140px;
+}
+
+#LALogo:hover {
+  opacity: 0.5;
+}
+
+#LAMascot {
+  width: 210px;
+  padding-left: 30px;
+}
+
+#LABasketball {
+  width: 204px;
+  padding-left: 20px;
+}
+
+#LAGraduation {
+  width: 162px;
+  padding-left: 20px;
+}
+
+
+#LAVolleyball {
+  width: 198px;
+  padding-left: 20px;
+}
+
+
+/* California Maritime Academy Section */
+
+#mAcademyLogo {
+  width: 140px;
+}
+
+#mAcademyLogo:hover {
+  opacity: 0.5;
+}
+
+#mAcademyMascot {
+  width: 210px;
+  padding-left: 30px;
+}
+
+#mAcademySport {
+  width: 138px;
+  padding-left: 20px;
+}
+
+#mAcademyGraduation {
+  width: 226px;
+  padding-left: 20px;
+}
+
+#mAcademyCampus {
+  width: 212px;
+  padding-left: 20px;
+}
+
+/* CSU Monterey Bay Section */
+
+#montereyBayLogo {
+  width: 140px;
+}
+
+#montereyBayLogo:hover {
+  opacity: 0.5;
+}
+
+#montereyBayMascot {
+  width: 215px;
+  padding-left: 30px;
+}
+
+#montereyBaySport {
+  width: 140px;
+  padding-left: 20px;
+}
+
+#montereyBayGraduation {
+  width: 222px;
+  padding-left: 20px;
+}
+
+#montereyBayCampus {
+  width: 216px;
+  padding-left: 20px;
+}
+
+/* CSU Northridge Section */
+
+#northridgeLogo {
+  width: 150px;
+}
+
+#northridgeLogo:hover {
+  opacity: 0.5;
+}
+
+#northridgeMascot {
+  width: 188px;
+  padding-left: 30px;
+}
+
+#northridgeBaseball {
+  width: 220px;
+  padding-left: 20px;
+}
+
+#northridgeCampus {
+  width: 238px;
+  padding-left: 20px;
+}
+
+#northridgeBasketball {
+  width: 220px;
+  padding-left: 20px;
+}
+
+/* California State Polytechnic University, Pomona Section */
+
+#calPolyLogo {
+  width: 140px;
+}
+
+#calPolyLogo:hover {
+  opacity: 0.5;
+}
+
+#calPolyMascot {
+  width: 180px;
+  padding-left: 30px;
+}
+
+#calPolySport {
+  width: 276px;
+  padding-left: 20px;
+}
+
+#calPolyGraduation {
+  width: 200px;
+  padding-left: 20px;
+}
+
+#calPolyCampus {
+  width: 242px;
+  padding-left: 20px;
+}
+
+/* CSU Sacramento Section */
+
+#sacramentoLogo {
+  width: 140px;
+}
+
+#sacramentoLogo:hover {
+  opacity: 0.5;
+}
+
+#sacramentoMascot {
+  width: 240px;
+  padding-left: 30px;
+}
+
+#sacramentoSport {
+  width: 234px;
+  padding-left: 20px;
+}
+
+#sacramentoGraduation {
+  width: 240px;
+  padding-left: 20px;
+}
+
+#sacramentoCampus {
+  width: 242px;
+  padding-left: 20px;
+}
+
+/* CSU San Bernardino Section */
+
+#sanBernardinoLogo {
+  width: 140px;
+}
+
+#sanBernardinoLogo:hover {
+  opacity: 0.5;
+}
+
+#sanBernardinoMascot {
+  width: 200px;
+  padding-left: 30px;
+}
+
+#sanBernardinoSport {
+  width: 246px;
+  padding-left: 20px;
+}
+
+#sanBernardinoGraduation {
+  width: 203px;
+  padding-left: 20px;
+}
+
+#sanBernardinoCampus {
+  width: 260px;
+  padding-left: 20px;
+}
+
+
+/* CSU San Diego Section */
+
+#sanDiegoLogo {
+  width: 140px;
+}
+
+#sanDiegoLogo:hover {
+  opacity: 0.5;
+}
+
+#sanDiegoMascot {
+  width: 230px;
+  padding-left: 30px;
+}
+
+#sanDiegoSport {
+  width: 224px;
+  padding-left: 20px;
+}
+
+#sanDiegoGraduation {
+  width: 230px;
+  padding-left: 20px;
+}
+
+#sanDiegoCampus {
+  width: 207px;
+  padding-left: 20px;
+}
+
+/* San Francisco State University Section */
+
+#SFLogo {
+  width: 140px;
+}
+
+#SFLogo:hover {
+  opacity: 0.5;
+}
+
+#SFMascot {
+  width: 160px;
+  padding-left: 20px;
+}
+
+#SFSport {
+  width: 218px;
+  padding-left: 20px;
+}
+
+#SFGraduation {
+  width: 258px;
+  padding-left: 20px;
+}
+
+#SFCampus {
+  width: 218px;
+  padding-left: 20px;
+}
+
+/* San Jose State University Section */
+
+#sjsuLogo {
+  width: 140px;
+}
+
+#sjsuLogo:hover {
+  opacity: 0.5;
+}
+
+#sjsuMascot {
+  width: 255px;
+  padding-left: 30px;
+}
+
+#sjsuSport {
+  width: 206px;
+  padding-left: 20px;
+}
+
+#sjsuGraduation {
+  width: 190px;
+  padding-left: 20px;
+}
+
+#sjsuCampus {
+  width: 206px;
+  padding-left: 20px;
+}
+
+/* California Polytechnic State University, San Luis Obispo Section */
+
+#calPoly2Logo {
+  width: 140px;
+}
+
+#calPoly2Logo:hover {
+  opacity: 0.5;
+}
+
+#calPoly2Mascot {
+  width: 200px;
+  padding-left: 30px;
+}
+
+#calPoly2Sport {
+  width: 190px;
+  padding-left: 20px;
+}
+
+#calPoly2Graduation {
+  width: 260px;
+  padding-left: 20px;
+}
+
+#calPoly2Campus {
+  width: 210px;
+  padding-left: 20px;
+}
+
+/* CSU San Marcos Section */
+
+#sanMarcosLogo {
+  width: 140px;
+}
+
+#sanMarcosLogo:hover {
+  opacity: 0.5;
+}
+
+#sanMarcosMascot {
+  width: 140px;
+  padding-left: 30px;
+}
+
+#sanMarcosSport {
+  width: 240px;
+  padding-left: 20px;
+}
+
+#sanMarcosGraduation {
+  width: 210px;
+  padding-left: 20px;
+}
+
+#sanMarcosCampus {
+  width: 186px;
+  padding-left: 20px;
+}
+
+/* Sonoma State University Section */
+
+#sonomaLogo {
+  width: 140px;
+}
+
+#sonomaLogo:hover {
+  opacity: 0.5;
+}
+
+#sonomaMascot {
+  width: 235px;
+  padding-left: 30px;
+}
+
+#sonomaSport {
+  width: 200px;
+  padding-left: 30px;
+}
+
+#sonomaGraduation {
+  width: 200px;
+  padding-left: 30px;
+}
+
+#sonomaCampus {
+  width: 200px;
+  padding-left: 30px;
+}
+
+/* CSU Stanislaus Section */
+
+#stanislausLogo {
+  width: 150px;
+}
+
+#stanislausLogo:hover {
+  opacity: 0.5;
+}
+
+#stanislausMascot {
+  width: 120px;
+  padding-left: 30px;
+}
+
+#stanislausSport {
+  width: 200px;
+  padding-left: 20px;
+}
+
+#stanislausGraduation {
+  width: 220px;
+  padding-left: 20px;
+}
+
+#stanislausCampus {
+  width: 308px;
+  padding-left: 20px;
+}
