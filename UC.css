@@ -1,0 +1,84 @@
+#Column1, #Column2 {
+    float: left;
+    height: 600vh;
+    background-color: #f9ff93;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+}
+
+#Column1 {
+    width: 20%;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+
+#Column2 {
+    width: 78%;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+}
+
+#p01 {
+  padding-left: 10px;
+}
+
+#BerkeleyLogo {
+  width: 130px;
+}
+#BerkeleyLogo:hover {
+  opacity: 0.5;
+}
+#DavisLogo {
+  width: 145px;
+}
+#DavisLogo:hover {
+  opacity: 0.5;
+}
+#IrvineLogo {
+  width: 145px;
+}
+#IrvineLogo:hover {
+  opacity: 0.5;
+}
+#LosAngelesLogo {
+  width: 145px;
+}
+#LosAngelesLogo:hover {
+  opacity: 0.5;
+}
+#Merced {
+  width: 160px;
+}
+#Merced:hover {
+  opacity: 0.5;
+}
+#RiversideLogo {
+  width: 150px;
+}
+#RiversideLogo:hover {
+  opacity: 0.5;
+}
+#SanDiegoLogo {
+  width:140px;
+}
+#SanDiegoLogo:hover {
+  opacity: 0.5;
+}
+#SantaBarbaraLogo {
+  width: 140px;
+}
+#SantaBarbaraLogo:hover {
+  opacity: 0.5;
+}
+#SantaCruzLogo {
+  width: 160px;
+}
+#SantaCruzLogo:hover {
+  opacity: 0.5;
